@@ -1,2 +1,1 @@
-# tmx-spy
-Spy your translation memories!
+TMX-SPY
